@@ -6,5 +6,4 @@ add test2
 
 add run3 test1
 
-
-XXX
+1
