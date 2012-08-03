@@ -7,3 +7,4 @@ add test2
 add run3 test1
 
 1
+2
